@@ -6,6 +6,13 @@ build/
 backup_v2.0.1/
 backup_v3.0.1_*/
 
+# 本地保留但不纳入当前版本的旧版源码和参考图片
+HopeAgent2/
+p1_238_278.png
+p2_19.png
+p3_3412.png
+p4_4_512.png
+
 # Python 临时文件
 __pycache__/
 .pytest_cache/
