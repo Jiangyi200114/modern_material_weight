@@ -1,0 +1,21 @@
+# 编译输出
+build/
+*.exe
+
+# 备份目录
+backup_v2.0.1/
+backup_v3.0.1_*/
+
+# Python 临时文件
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# 测试截图和临时输出
+tests/*.png
+tests/*.exe
+
+# Visual Studio / Rider 临时文件
+.vs/
+bin/
+obj/
